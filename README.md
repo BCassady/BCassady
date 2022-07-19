@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![BCassady's GitHub stats](https://github-readme-stats.vercel.app/api?username=BCassady&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![BCassady's GitHub stats](https://github-readme-stats.vercel.app/api?username=BCassady&count_private=true&show_icons=true&theme=dark&hide=issues&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **BCassady/BCassady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
